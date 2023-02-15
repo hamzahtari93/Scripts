@@ -1,0 +1,11 @@
+C:\Users\Locco\Desktop\Scipts\DKSHybrid\bin\Release\DKSHybrid.dll
+C:\Users\Locco\Desktop\Scipts\DKSHybrid\bin\Release\DKSHybrid.pdb
+C:\Users\Locco\Desktop\Scipts\DKSHybrid\bin\Release\Rabot.exe
+C:\Users\Locco\Desktop\Scipts\DKSHybrid\bin\Release\System.Memory.dll
+C:\Users\Locco\Desktop\Scipts\DKSHybrid\bin\Release\Rabot.pdb
+C:\Users\Locco\Desktop\Scipts\DKSHybrid\bin\Release\Rabot.exe.config
+C:\Users\Locco\Desktop\Scipts\DKSHybrid\obj\Release\DKSHybrid.csproj.AssemblyReference.cache
+C:\Users\Locco\Desktop\Scipts\DKSHybrid\obj\Release\DKSHybrid.csproj.CoreCompileInputs.cache
+C:\Users\Locco\Desktop\Scipts\DKSHybrid\obj\Release\DKSHybrid.csproj.CopyComplete
+C:\Users\Locco\Desktop\Scipts\DKSHybrid\obj\Release\DKSHybrid.dll
+C:\Users\Locco\Desktop\Scipts\DKSHybrid\obj\Release\DKSHybrid.pdb
